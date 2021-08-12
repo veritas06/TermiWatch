@@ -1,5 +1,7 @@
 # TermiWatch
 
+EDIT: 20210812-0925: SMc: For now all I'm changing is a few of the static text fields & to use the [Ubuntu Monospace font](https://design.ubuntu.com/font/), instead of the SF Mono.
+
 Terminal Watch Face for Apple Watch.
 
 | ![38 mm](Screenshots/38mm.png) | ![42 mm](Screenshots/42mm.png) | ![40 mm](Screenshots/40mm.png) | ![44 mm](Screenshots/44mm.png) |
